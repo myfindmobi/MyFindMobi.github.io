@@ -9,32 +9,37 @@
 
 <url>
   <loc>https://myfindmobi.com/</loc>
-  <lastmod>2024-02-25T08:11:36+00:00</lastmod>
+  <lastmod>2024-03-19T08:11:09+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://myfindmobi.com/index.html</loc>
-  <lastmod>2024-02-25T08:11:36+00:00</lastmod>
+  <lastmod>2024-03-19T08:11:09+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://myfindmobi.com/How%20To%20Install.html</loc>
-  <lastmod>2024-02-25T08:11:36+00:00</lastmod>
+  <loc>https://myfindmobi.com/how-to-install.html</loc>
+  <lastmod>2024-03-19T08:11:09+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://myfindmobi.com/Video.html</loc>
-  <lastmod>2024-02-25T08:11:36+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://myfindmobi.com/Privacy%20Policy.html</loc>
-  <lastmod>2024-02-25T08:11:36+00:00</lastmod>
+  <loc>https://myfindmobi.com/faq.html</loc>
+  <lastmod>2024-03-19T08:11:09+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://myfindmobi.com/blog.html</loc>
-  <lastmod>2024-02-25T08:11:36+00:00</lastmod>
+  <lastmod>2024-03-19T08:11:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://myfindmobi.com/privacy-policy.html</loc>
+  <lastmod>2024-03-19T08:11:09+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://myfindmobi.com/terms-conditions.html</loc>
+  <lastmod>2024-03-19T08:11:09+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 
